@@ -128,18 +128,15 @@ Reduces high-dimensional data into 2D for visualization.
 
 # 📁 Project Structure
 
-```
+```text
 SmartCart-Customer-Segmentation/
 │
 ├── smartcart_customers.csv
 ├── SmartCart_Customer_Segmentation_Project.ipynb
-├── Customer_Segmentation_Result.csv
-├── kmeans_model.pkl
-├── scaler.pkl
-├── requirements.txt
-├── README.md
-└── images/
+└── README.md
 ```
+
+
 
 ---
 
